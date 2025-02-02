@@ -1,1 +1,44 @@
-
+[
+  {
+    "id": "1",
+    "nom": "Cupsoula",
+    "prix": "200",
+    "images": [
+      "water.png"
+    ],
+    "description": "water bubbles are an innovative and eco-friendly alternative to plastic water bottles. Made from a biodegradable and edible seaweed-based membrane, these water capsules provide a sustainable way to stay hydrated without contributing to plastic waste.",
+    "enStock": "1",
+    "astuce": "The bubbles can be consumed whole or punctured to drink the water inside, making them ideal for events, marathons, and on-the-go hydration.",
+    "categorie": "authentic taste",
+    "indice": 0,
+    "quantité": 10
+  },
+  {
+    "id": "2",
+    "nom": "Watermelon-Cupsoula",
+    "prix": "200",
+    "images": [
+      "dela3.png",
+    ],
+    "description": "Watermelon-flavored Ooho water bubbles offer a refreshing and eco-friendly way to stay hydrated while enjoying a burst of fruity taste. Made from a biodegradable and edible seaweed-based membrane, these innovative water capsules provide a sustainable alternative to plastic bottles.\r\n",
+    "enStock": "1",
+    "astuce": "With their natural watermelon essence, they deliver a sweet and juicy flavor, making them perfect for sports events, outdoor activities, or simply as a fun way to drink water.\r\n",
+    "categorie": "Watermelon-flavor",
+    "indice": 0,
+    "quantité": 5
+  },
+  {
+    "id": "3",
+    "nom": "Orange-Cupsoula",
+    "prix": "200",
+    "images": [
+      "orong.png",
+    ],
+    "description": "Orange-flavored Ooho water bubbles offer a zesty and eco-conscious way to hydrate while enjoying a burst of citrusy freshness. Encased in a biodegradable and edible seaweed-based membrane, these water capsules provide an innovative alternative to traditional plastic bottles\r\n",
+    "enStock": "1",
+    "astuce": "Infused with the vibrant taste of orange, they deliver a tangy and refreshing drink that’s perfect for on-the-go hydration, sports events, or outdoor adventures.\r\n",
+    "categorie": "Orange-flavor",
+    "indice": 0,
+    "quantité": 8
+  },
+]
